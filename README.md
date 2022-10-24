@@ -1,6 +1,6 @@
 ### Hi there 👋
 ------
-I'm Luis, I am a data enthusiast looking for be a data analyst
+I'm Luis, I am a data enthusiast looking to be a data analyst
 <!--
 **linhares-luis/linhares-luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
