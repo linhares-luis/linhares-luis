@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SQL and Python
 - You can take a look at my study projects:
 - SQL:
-   - 8 week SQL challenge ([link](Data-Study/8-weeks-SQL-challenge/))
+   - 8 week SQL challenge ([link](https://github.com/linhares-luis/Data-Study/tree/main/8-weeks-SQL-challenge))
