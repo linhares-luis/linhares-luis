@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning SQL and Python
+- You can take a look at my study projects:
+- SQL:
+   - 8 week SQL challenge ([link](Data-Study/8-weeks-SQL-challenge/))
